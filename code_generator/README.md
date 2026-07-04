@@ -10,10 +10,10 @@ Base model: `Qwen/Qwen2.5-0.5B` | Dataset: `Vezora/Tested-22k-Python-Alpaca`
 
 ## Stack
 
-- `transformers` — model loading and inference
-- `peft` — LoRA adapter injection
-- `trl` — SFTTrainer training loop
-- `datasets` — dataset loading and formatting
+- `transformers` model loading and inference
+- `peft` LoRA adapter injection
+- `trl` SFTTrainer training loop
+- `datasets` dataset loading and formatting
 
 ## LoRA Config
 
